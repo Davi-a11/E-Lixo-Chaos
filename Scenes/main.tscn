@@ -1,5 +1,8 @@
 [gd_scene format=3 uid="uid://du4nj5fr5phc"]
 
+[ext_resource type="Script" uid="uid://bvmgufiwkx3cq" path="res://Scenes/main.gd" id="1_jjgbg"]
+
 [node name="Main" type="Node2D" unique_id=1560417076]
+script = ExtResource("1_jjgbg")
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=204026855]
